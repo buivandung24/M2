@@ -8,7 +8,7 @@ public class UnityCloudBuildLogin : MonoBehaviour
     private const string loginUrl = "https://build-api.cloud.unity3d.com/api/v1/oauth2/token";
 
     // Thay thế với API Access Token của bạn từ Unity Cloud
-    private const string apiAccessToken = "YOUR_API_ACCESS_TOKEN";
+    private const string apiAccessToken = "98065bff5b0b0977e9a96982d303faf8";
 
     // Hàm bắt đầu đăng nhập
     public void Login()
