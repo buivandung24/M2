@@ -62,3 +62,5 @@ ExportedObj/
 *.unity.meta
 *.prefab.meta
 *.asset.meta
+
+*.meta
