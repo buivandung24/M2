@@ -1,0 +1,2358 @@
+https://api.figma.com/v1/files/8a2i9V1AndwmuUUjyy3VK1?depth=2&plugin_data=shared
+{
+    "document": {
+        "id": "0:0",
+        "name": "Document",
+        "type": "DOCUMENT",
+        "scrollBehavior": "SCROLLS",
+        "children": [
+            {
+                "id": "0:1",
+                "name": "Page 1",
+                "type": "CANVAS",
+                "scrollBehavior": "SCROLLS",
+                "children": [
+                    {
+                        "id": "178:10",
+                        "name": "Group 578",
+                        "type": "GROUP",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -3820.0,
+                            "y": -2079.0,
+                            "width": 289.0,
+                            "height": 761.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -3820.0,
+                            "y": -2079.0,
+                            "width": 289.0,
+                            "height": 761.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": false,
+                        "background": [
+                            
+                        ],
+                        "fills": [
+                            
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "rectangleCornerRadii": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:1005",
+                        "name": "Add-On 2",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -4501.0,
+                            "y": -3092.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -4501.0,
+                            "y": -3092.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:1170",
+                        "name": "Rebuy 2",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -4501.0,
+                            "y": -2113.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -4501.0,
+                            "y": -2113.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.3906977188099450,
+                                        "y": 1.0885193502803647
+                                    },
+                                    {
+                                        "x": -0.023255788783611786,
+                                        "y": -0.065987115708311173
+                                    },
+                                    {
+                                        "x": 1.9679509518042830,
+                                        "y": 0.93802845451330974
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.16862745583057404,
+                                            "g": 0.16862745583057404,
+                                            "b": 0.16862745583057404,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.3906977188099450,
+                                        "y": 1.0885193502803647
+                                    },
+                                    {
+                                        "x": -0.023255788783611786,
+                                        "y": -0.065987115708311173
+                                    },
+                                    {
+                                        "x": 1.9679509518042830,
+                                        "y": 0.93802845451330974
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.16862745583057404,
+                                            "g": 0.16862745583057404,
+                                            "b": 0.16862745583057404,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:1673",
+                        "name": "Tournamets/Table Options",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -5874.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -5874.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:1829",
+                        "name": "Tournamets/Table Options/Table Settings",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -5874.0,
+                            "y": -3005.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -5874.0,
+                            "y": -3005.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:2035",
+                        "name": "Tournamets/Table Options/Theme",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -5874.0,
+                            "y": -2045.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -5874.0,
+                            "y": -2045.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:2281",
+                        "name": "Tournamets/Table Options",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -5420.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -5420.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:2666",
+                        "name": "Tournamets/Hand summary",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -5420.0,
+                            "y": -3005.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -5420.0,
+                            "y": -3005.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:2916",
+                        "name": "Tournament Cash Winner Popup",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -3558.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -3558.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:3156",
+                        "name": "Tournament Ticket  Winner Popup",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -3558.0,
+                            "y": -2908.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -3558.0,
+                            "y": -2908.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:3395",
+                        "name": "Tournamets/Table Options",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -4966.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -4966.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:3895",
+                        "name": "Tournamets/Table Options",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -4502.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -4502.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:4150",
+                        "name": "Tournamets/Table Options",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -4048.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -4048.0,
+                            "y": -3976.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:7258",
+                        "name": "Plyground Rais Slider ",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -3128.0,
+                            "y": -1330.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -3128.0,
+                            "y": -1330.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:8269",
+                        "name": "Plyground React ",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -2616.0,
+                            "y": -1330.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -2616.0,
+                            "y": -1330.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    },
+                    {
+                        "id": "178:9322",
+                        "name": "Plyground ",
+                        "type": "FRAME",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -2119.0,
+                            "y": -1286.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": -2119.0,
+                            "y": -1286.0,
+                            "width": 430.0,
+                            "height": 932.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "fills": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "GRADIENT_LINEAR",
+                                "gradientHandlePositions": [
+                                    {
+                                        "x": 1.1651163508312297,
+                                        "y": 0.76770387912799098
+                                    },
+                                    {
+                                        "x": -1.1081395323385759,
+                                        "y": -0.67113729642841324
+                                    },
+                                    {
+                                        "x": 1.8845369386094317,
+                                        "y": 0.52575512741587560
+                                    }
+                                ],
+                                "gradientStops": [
+                                    {
+                                        "color": {
+                                            "r": 0.058823529630899429,
+                                            "g": 0.019607843831181526,
+                                            "b": 0.16078431904315948,
+                                            "a": 1.0
+                                        },
+                                        "position": 0.0
+                                    },
+                                    {
+                                        "color": {
+                                            "r": 0.29019609093666077,
+                                            "g": 0.14509804546833038,
+                                            "b": 0.45490196347236633,
+                                            "a": 1.0
+                                        },
+                                        "position": 1.0
+                                    }
+                                ]
+                            }
+                        ],
+                        "strokes": [
+                            
+                        ],
+                        "cornerRadius": 20.0,
+                        "cornerSmoothing": 0.0,
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "backgroundColor": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.0
+                        },
+                        "layoutGrids": [
+                            {
+                                "pattern": "COLUMNS",
+                                "sectionSize": 58.0,
+                                "visible": false,
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.10000000149011612
+                                },
+                                "alignment": "STRETCH",
+                                "gutterSize": 20.0,
+                                "offset": 30.0,
+                                "count": 5
+                            }
+                        ],
+                        "exportSettings": [
+                            {
+                                "suffix": "",
+                                "format": "PNG",
+                                "constraint": {
+                                    "type": "SCALE",
+                                    "value": 1.0
+                                }
+                            }
+                        ],
+                        "effects": [
+                            
+                        ]
+                    }
+                ],
+                "backgroundColor": {
+                    "r": 0.96078431606292725,
+                    "g": 0.96078431606292725,
+                    "b": 0.96078431606292725,
+                    "a": 1.0
+                },
+                "prototypeStartNodeID": null,
+                "flowStartingPoints": [
+                    
+                ],
+                "prototypeDevice": {
+                    "type": "NONE",
+                    "rotation": "NONE"
+                }
+            }
+        ]
+    },
+    "components": {
+        
+    },
+    "componentSets": {
+        
+    },
+    "schemaVersion": 0,
+    "styles": {
+        "43:3": {
+            "key": "2abb974af704ec23f3629753f8de4b5d39b14ed3",
+            "name": "gold",
+            "styleType": "FILL",
+            "remote": false,
+            "description": ""
+        }
+    },
+    "name": "DNG_Poker",
+    "lastModified": "2024-07-17T10:59:04Z",
+    "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/55801d84-668e-4672-be44-810bc574bda0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC5VVLVWLU%2F20240714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240714T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0bdddb01694abcabab313d5dff3756005d70359036d253a6a74b3e3b499b230f",
+    "version": "6238287632",
+    "role": "owner",
+    "editorType": "figma",
+    "linkAccess": "inherit"
+}
