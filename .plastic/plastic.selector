@@ -1,0 +1,4 @@
+repository "M2@roadspeed@cloud"
+  path "/"
+    br "/main"
+    co "/main"
